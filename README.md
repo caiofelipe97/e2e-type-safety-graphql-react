@@ -14,3 +14,8 @@ Fully Type-Safe Application with GraphQL, Prisma & React
 - TailwindCSS for styling the application
 
 
+## Project URL:
+- https://users-messages-graphql.onrender.com/
+
+## GraphQL API:
+- https://users-messages-graphql.onrender.com/graphql
